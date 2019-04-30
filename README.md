@@ -1,2 +1,2 @@
 # First-Website-Project
-Free Udemy Course. First introduction to HTML/CSS
+Free Udemy Course. My first introduction to HTML/CSS
